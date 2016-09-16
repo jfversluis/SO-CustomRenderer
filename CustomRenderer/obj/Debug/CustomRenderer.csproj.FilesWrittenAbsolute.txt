@@ -1,0 +1,12 @@
+/Users/jfversluis/Projects/CustomRenderer/CustomRenderer/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/jfversluis/Projects/CustomRenderer/CustomRenderer/obj/Debug/CustomRenderer.App.xaml
+/Users/jfversluis/Projects/CustomRenderer/CustomRenderer/obj/Debug/CustomRenderer.CustomRendererPage.xaml
+/Users/jfversluis/Projects/CustomRenderer/CustomRenderer/obj/Debug/CustomRenderer.App.xaml.g.cs
+/Users/jfversluis/Projects/CustomRenderer/CustomRenderer/obj/Debug/CustomRenderer.CustomRendererPage.xaml.g.cs
+/Users/jfversluis/Projects/CustomRenderer/CustomRenderer/bin/Debug/CustomRenderer.dll.mdb
+/Users/jfversluis/Projects/CustomRenderer/CustomRenderer/bin/Debug/CustomRenderer.dll
+/Users/jfversluis/Projects/CustomRenderer/CustomRenderer/obj/Debug/CustomRenderer.dll
+/Users/jfversluis/Projects/CustomRenderer/CustomRenderer/obj/Debug/CustomRenderer.dll.mdb
+/Users/jfversluis/Projects/CustomRenderer/CustomRenderer/bin/Debug/Xamarin.Forms.Core.dll
+/Users/jfversluis/Projects/CustomRenderer/CustomRenderer/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/jfversluis/Projects/CustomRenderer/CustomRenderer/bin/Debug/Xamarin.Forms.Xaml.dll
